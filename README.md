@@ -1,4 +1,4 @@
-# Box
+# takagen99 Box
 
 App default settings can be set here :
 /src/main/java/com/github/tvbox/osc/base/App.java
