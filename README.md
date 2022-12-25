@@ -14,3 +14,5 @@ App default settings can be set here :
         putDefault(HawkConfig.SEARCH_VIEW, 2);    // Text or Picture
 
     }
+背景图标位置：app\src\main\res\drawable
+关于：\app\src\main\res\layout\dialog_about.xml
